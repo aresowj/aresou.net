@@ -83,7 +83,7 @@ _:-ms-lang(x), .wpd-social-login [wpd-tooltip]::before{top: -24px;}
 #wpdcom span:hover.wpd-field-desc span {visibility: visible; opacity: 1; bottom: 38px; left: 50%; margin-left: -105px; z-index: 999999; }
 
 /* Rating Section */
-@font-face { font-family: 'square721_cn_btroman'; src: url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot'); src: url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot#iefix') format('embedded-opentype'), url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2') format('woff2'), url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff') format('woff'), url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf')  format('truetype'), url('/wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg#svgFontName') format('svg'); font-display: swap; }
+@font-face { font-family: 'square721_cn_btroman'; src: url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot'); src: url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.eot#iefix') format('embedded-opentype'), url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff2') format('woff2'), url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.woff') format('woff'), url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.ttf')  format('truetype'), url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/themes/default/css/fonts/sqr721c-webfont.svg#svgFontName') format('svg'); font-display: swap; }
 #wpd-post-rating{display: flex; flex-wrap: wrap; flex-direction: row; justify-content: center; align-items: center; width: 100%; margin-top: 20px; margin-bottom: 30px;}
 #wpd-post-rating .wpd-rating-wrap{width: 30%;display: flex; flex-wrap: nowrap; flex-direction: row; justify-content: center; align-items: center; align-content: center; text-align: center; }
 #wpd-post-rating .wpd-rating-wrap .wpd-rating-left{flex-grow: 1; height: 1px; border-bottom: 1px dashed #999999; margin-right: -10px;}
@@ -819,7 +819,7 @@ _:-ms-lang(x), #wpdcom.wpd-layout-3 .wpd-comment.wpd-reply .wpd-comment-footer .
 #wpd-insert-source-code{padding: 3px 40px; margin-top: 5px;}
 .wpd-vote-result-sep {height: 11px;align-self: center;width: 1px;background-color: #ccc;}
 
-#wpdiscuz-loading-bar{position:fixed;top:6px;right:12px;width:32px;height:25px;border:0;background-image:url('/wp-content/plugins/wpdiscuz/assets/img/loading.gif');z-index:999999;display:none;}
+#wpdiscuz-loading-bar{position:fixed;top:6px;right:12px;width:32px;height:25px;border:0;background-image:url('https://aresou.pages.dev//wp-content/plugins/wpdiscuz/assets/img/loading.gif');z-index:999999;display:none;}
 #wpdiscuz-loading-bar.wpdiscuz-loading-bar-auth{top:38px;}
 
 #wpdcom .wpd-comment-info-bar {display: none; padding: 10px; margin: 20px auto 0 auto; flex-direction: row; justify-content: space-between; font-size: 14px; }

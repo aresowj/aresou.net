@@ -9,8 +9,8 @@
 
 <channel>
 	<title>javascript Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="/tag/javascript/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/javascript/</link>
+	<atom:link href="https://aresou.pages.dev//tag/javascript/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aresou.pages.dev//tag/javascript/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 21 Jan 2022 05:21:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>https://aresou.pages.dev//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>javascript Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>/tag/javascript/</link>
+	<link>https://aresou.pages.dev//tag/javascript/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</title>
-		<link>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
-					<comments>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
+		<link>https://aresou.pages.dev//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
+					<comments>https://aresou.pages.dev//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 Jan 2022 05:19:06 +0000</pubDate>
@@ -40,17 +40,17 @@
 		<category><![CDATA[hosting]]></category>
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">/?p=137</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev//?p=137</guid>
 
 					<description><![CDATA[<p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors [...]</p>
-<p>The post <a href="/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors for my site:</p>
 
 
 
-<pre class="wp-block-preformatted">GET /wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
+<pre class="wp-block-preformatted">GET https://aresou.pages.dev//wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: /wp-admin/index.php</pre>
+<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: https://aresou.pages.dev//wp-admin/index.php</pre>
 
 
 
@@ -136,27 +136,27 @@ Satisfy All</pre>
 
 
 <p>Hope this article can save someone a bit of time. It took me almost 2 hours to figure out what was going on. Have a good day!</p>
-<p>The post <a href="/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JavaScript (jQuery AngularJS) Notes</title>
-		<link>/2019/10/25/javascript-jquery-angularjs-notes/</link>
-					<comments>/2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
+		<link>https://aresou.pages.dev//2019/10/25/javascript-jquery-angularjs-notes/</link>
+					<comments>https://aresou.pages.dev//2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 05:54:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[javascript]]></category>
-		<guid isPermaLink="false">/?p=11</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev//?p=11</guid>
 
 					<description><![CDATA[<p>Better way to compare two floats When you compare two floats, you’d better not directly compare them. Because in the calculation handled by computer, some [...]</p>
-<p>The post <a href="/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Better way to compare two floats</h4>
@@ -209,10 +209,10 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 
 
 <p>If you want to find anything in all the siblings, use <code>.nextAll(selector)</code> instead.</p>
-<p>The post <a href="/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev//2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>georgia tech Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="/tag/georgia-tech/feed/" rel="self" type="application/rss+xml" />
-	<link>/tag/georgia-tech/</link>
+	<atom:link href="https://aresou.pages.dev//tag/georgia-tech/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aresou.pages.dev//tag/georgia-tech/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Sat, 06 Nov 2021 23:13:32 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>https://aresou.pages.dev//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>georgia tech Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>/tag/georgia-tech/</link>
+	<link>https://aresou.pages.dev//tag/georgia-tech/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Reflection for My Last Semester at OMSCS</title>
-		<link>/2021/05/21/reflection-for-my-last-semester-at-omscs/</link>
-					<comments>/2021/05/21/reflection-for-my-last-semester-at-omscs/#comments</comments>
+		<link>https://aresou.pages.dev//2021/05/21/reflection-for-my-last-semester-at-omscs/</link>
+					<comments>https://aresou.pages.dev//2021/05/21/reflection-for-my-last-semester-at-omscs/#comments</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 May 2021 19:12:22 +0000</pubDate>
@@ -39,10 +39,10 @@
 		<category><![CDATA[georgia tech]]></category>
 		<category><![CDATA[master degree]]></category>
 		<category><![CDATA[omscs]]></category>
-		<guid isPermaLink="false">/?p=48</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev//?p=48</guid>
 
 					<description><![CDATA[<p>Introduction Spring 2021 was my last semester in the master program at Georgia Tech. I chose to push my limit and elected two courses: 6515 [...]</p>
-<p>The post <a href="/2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h1>Introduction</h1>
 <p>Spring 2021 was my last semester in the master program at Georgia Tech. I chose to push my limit and elected two courses:</p>
@@ -98,16 +98,16 @@
 <p>There are a bunch of tests running on GradeScope to evaluate your implementation. Two types of tests to expect: The RUN tests and SEARCH tests. Search test is a relatively new concept to me. The test code is not checking if the input/output are valid, but walking through the STATEs that your program can reach and see if any invariant violation. The concept reminds me something learnt in CS6340 Software Analysis and Test, which tests for invariants of code block, loops and branches.</p>
 <p>The search test can be very difficult to pass reliably if the logic of the implementation is not or near to perfect. Any edge case, including super trivial ones, will be caught when the test walks into a state that is violating any assumption. Compare to run tests, search tests is very efficient in finding missed edge cases, along with the DSLab framework, to wrap everything in-memory (including I/O operations).</p>
 <p>Difficulty of projects increases tremendously after Project 3 (as of Spring 2021). The first two are quite straightforward and simple, if you have some exposure to software engineering. You implement a basic key-value store, extending the provided interface and base <code>Application</code> class. After that, PAXOS comes into play and you are going to scratch (to the ground) your head for over 50 hours to implement the famous consensus protocol from Lamport&#8217;s thesis <a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"><em>Paxos Made Simple</em></a>. Well it feels like the &#8220;How to draw an owl meme&#8221;:</p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-50 size-full" src="/wp-content/uploads/2021/05/how-to-draw-an-owl.jpg" alt="" width="500" height="407" srcset="/wp-content/uploads/2021/05/how-to-draw-an-owl.jpg 500w, /wp-content/uploads/2021/05/how-to-draw-an-owl-300x244.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-50 size-full" src="https://aresou.pages.dev//wp-content/uploads/2021/05/how-to-draw-an-owl.jpg" alt="" width="500" height="407" srcset="https://aresou.pages.dev//wp-content/uploads/2021/05/how-to-draw-an-owl.jpg 500w, https://aresou.pages.dev//wp-content/uploads/2021/05/how-to-draw-an-owl-300x244.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
 <p>For sure, you will learn A LOT at the end, when you finish all five projects. It&#8217;s okay if you cannot get full score in all of them, I did not in the last one. Still, learn by coding is a good approach for studying distributed system, and computer science.</p>
 <h1>Conclusion</h1>
 <p>By striving through the course, I firmly believe that my passion is with Distributed Systems and I want to continue this journey. Go deep and go wide, that&#8217;s what I will be trying to do.</p>
 <p>I strongly recommend anyone who is interested in the topics to take this class, it is well-organized, content rich, with good support from the professor and TAs. The topics are not stale, you could even leverage most of things you learnt in your job, if you work in the cloud industry.</p>
 <p>Also applied to be an TA in this course, see you in Fall 2021.</p>
-<p>The post <a href="/2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev//2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2021/05/21/reflection-for-my-last-semester-at-omscs/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev//2021/05/21/reflection-for-my-last-semester-at-omscs/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
