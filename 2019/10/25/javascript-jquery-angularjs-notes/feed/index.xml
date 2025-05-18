@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: JavaScript (jQuery AngularJS) Notes	</title>
-	<atom:link href="//2019/10/25/javascript-jquery-angularjs-notes/feed/" rel="self" type="application/rss+xml" />
-	<link>//2019/10/25/javascript-jquery-angularjs-notes/</link>
+	<atom:link href="/2019/10/25/javascript-jquery-angularjs-notes/feed/" rel="self" type="application/rss+xml" />
+	<link>/2019/10/25/javascript-jquery-angularjs-notes/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 25 Oct 2019 05:54:00 +0000</lastBuildDate>
 	<sy:updatePeriod>

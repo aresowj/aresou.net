@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Tech Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="//category/tech/feed/" rel="self" type="application/rss+xml" />
-	<link>//category/tech/</link>
+	<atom:link href="/category/tech/feed/" rel="self" type="application/rss+xml" />
+	<link>/category/tech/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 21 Jan 2022 05:21:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>Tech Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>//category/tech/</link>
+	<link>/category/tech/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</title>
-		<link>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
-					<comments>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
+		<link>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
+					<comments>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 Jan 2022 05:19:06 +0000</pubDate>
@@ -40,17 +40,17 @@
 		<category><![CDATA[hosting]]></category>
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">//?p=137</guid>
+		<guid isPermaLink="false">/?p=137</guid>
 
 					<description><![CDATA[<p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors [...]</p>
-<p>The post <a href="//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors for my site:</p>
 
 
 
-<pre class="wp-block-preformatted">GET //wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
+<pre class="wp-block-preformatted">GET /wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: //wp-admin/index.php</pre>
+<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: /wp-admin/index.php</pre>
 
 
 
@@ -136,28 +136,28 @@ Satisfy All</pre>
 
 
 <p>Hope this article can save someone a bit of time. It took me almost 2 hours to figure out what was going on. Have a good day!</p>
-<p>The post <a href="//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Summary and thinking on Bulb Switcher problem</title>
-		<link>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
-					<comments>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
+		<link>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
+					<comments>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 09:30:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[algorithm]]></category>
 		<category><![CDATA[leetcode]]></category>
-		<guid isPermaLink="false">//?p=9</guid>
+		<guid isPermaLink="false">/?p=9</guid>
 
 					<description><![CDATA[<p>Bulb Switcher Problem: There are n bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. [...]</p>
-<p>The post <a href="//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Bulb Switcher</h4>
@@ -245,27 +245,27 @@ Satisfy All</pre>
 
 
 <p>That’s it. Please leave any comment if you think I’m wrong or you have suggestions for my expressions (as I’m not a native English speaker, just want to make myself more clear on explaining an algorithm problem).</p>
-<p>The post <a href="//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
+					<wfw:commentRss>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JavaScript (jQuery AngularJS) Notes</title>
-		<link>//2019/10/25/javascript-jquery-angularjs-notes/</link>
-					<comments>//2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
+		<link>/2019/10/25/javascript-jquery-angularjs-notes/</link>
+					<comments>/2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 05:54:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[javascript]]></category>
-		<guid isPermaLink="false">//?p=11</guid>
+		<guid isPermaLink="false">/?p=11</guid>
 
 					<description><![CDATA[<p>Better way to compare two floats When you compare two floats, you’d better not directly compare them. Because in the calculation handled by computer, some [...]</p>
-<p>The post <a href="//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Better way to compare two floats</h4>
@@ -318,18 +318,18 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 
 
 <p>If you want to find anything in all the siblings, use <code>.nextAll(selector)</code> instead.</p>
-<p>The post <a href="//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
+					<wfw:commentRss>/2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Compile &#038; install 32 bit Python 2.7 on 64 bit CentOS 6.5</title>
-		<link>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
-					<comments>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
+		<link>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
+					<comments>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 06:00:00 +0000</pubDate>
@@ -337,10 +337,10 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 		<category><![CDATA[centos]]></category>
 		<category><![CDATA[devops]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">//?p=10</guid>
+		<guid isPermaLink="false">/?p=10</guid>
 
 					<description><![CDATA[<p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a [...]</p>
-<p>The post <a href="//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a library that only has a 32bit build. Here are the steps on how to compile &amp; install Python 2.7.12 from source code on CentOS 6.5. All operations tested on a clean CentOS 6.5 (AWS AMI: <em>CentOS 6.5 x86_64(HVM) — 20141008–0 — minimal install with cloud helpers plus Intel SRIOV (ami-4dc28f7d)</em>)</p>
@@ -455,27 +455,27 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 
 
 <p><a href="https://bugs.python.org/issue23042">https://bugs.python.org/issue23042</a></p>
-<p>The post <a href="//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
+					<wfw:commentRss>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to check Python version (both command-line and programmatically)</title>
-		<link>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
-					<comments>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
+		<link>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
+					<comments>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 05:39:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">//?p=12</guid>
+		<guid isPermaLink="false">/?p=12</guid>
 
 					<description><![CDATA[<p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way [...]</p>
-<p>The post <a href="//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way to do the stuff.</p>
@@ -523,10 +523,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> sys.version_info
 sys.version_info(major=2, minor=7, micro=10, releaselevel='final', serial=0)
 >>></code></pre>
-<p>The post <a href="//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
+					<wfw:commentRss>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
