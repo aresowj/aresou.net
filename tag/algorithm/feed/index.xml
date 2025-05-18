@@ -9,8 +9,8 @@
 
 <channel>
 	<title>algorithm Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="https://aresou.pages.dev//tag/algorithm/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aresou.pages.dev//tag/algorithm/</link>
+	<atom:link href="https://aresou.pages.dev/tag/algorithm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aresou.pages.dev/tag/algorithm/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 25 Oct 2019 09:30:00 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,26 +21,26 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://aresou.pages.dev//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>https://aresou.pages.dev/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>algorithm Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>https://aresou.pages.dev//tag/algorithm/</link>
+	<link>https://aresou.pages.dev/tag/algorithm/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Summary and thinking on Bulb Switcher problem</title>
-		<link>https://aresou.pages.dev//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
-					<comments>https://aresou.pages.dev//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
+		<link>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
+					<comments>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 09:30:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[algorithm]]></category>
 		<category><![CDATA[leetcode]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev//?p=9</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev/?p=9</guid>
 
 					<description><![CDATA[<p>Bulb Switcher Problem: There are n bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. [...]</p>
-<p>The post <a href="https://aresou.pages.dev//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Bulb Switcher</h4>
@@ -128,10 +128,10 @@
 
 
 <p>That’s it. Please leave any comment if you think I’m wrong or you have suggestions for my expressions (as I’m not a native English speaker, just want to make myself more clear on explaining an algorithm problem).</p>
-<p>The post <a href="https://aresou.pages.dev//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

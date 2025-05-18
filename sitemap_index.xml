@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://aresou.pages.dev//wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://aresou.pages.dev/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://aresou.pages.dev//post-sitemap.xml</loc>
+		<loc>https://aresou.pages.dev/post-sitemap.xml</loc>
 		<lastmod>2022-01-21T05:21:28+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aresou.pages.dev//page-sitemap.xml</loc>
+		<loc>https://aresou.pages.dev/page-sitemap.xml</loc>
 		<lastmod>2021-09-05T22:08:54+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aresou.pages.dev//category-sitemap.xml</loc>
+		<loc>https://aresou.pages.dev/category-sitemap.xml</loc>
 		<lastmod>2022-01-21T05:21:28+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://aresou.pages.dev//post_tag-sitemap.xml</loc>
+		<loc>https://aresou.pages.dev/post_tag-sitemap.xml</loc>
 		<lastmod>2022-01-21T05:21:28+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

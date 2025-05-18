@@ -9,8 +9,8 @@
 
 <channel>
 	<title>python Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="https://aresou.pages.dev//tag/python/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aresou.pages.dev//tag/python/</link>
+	<atom:link href="https://aresou.pages.dev/tag/python/feed/" rel="self" type="application/rss+xml" />
+	<link>https://aresou.pages.dev/tag/python/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Mon, 28 Oct 2019 07:14:43 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://aresou.pages.dev//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>https://aresou.pages.dev/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>python Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>https://aresou.pages.dev//tag/python/</link>
+	<link>https://aresou.pages.dev/tag/python/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Compile &#038; install 32 bit Python 2.7 on 64 bit CentOS 6.5</title>
-		<link>https://aresou.pages.dev//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
-					<comments>https://aresou.pages.dev//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
+		<link>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
+					<comments>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 06:00:00 +0000</pubDate>
@@ -38,10 +38,10 @@
 		<category><![CDATA[centos]]></category>
 		<category><![CDATA[devops]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev//?p=10</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev/?p=10</guid>
 
 					<description><![CDATA[<p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a [...]</p>
-<p>The post <a href="https://aresou.pages.dev//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a library that only has a 32bit build. Here are the steps on how to compile &amp; install Python 2.7.12 from source code on CentOS 6.5. All operations tested on a clean CentOS 6.5 (AWS AMI: <em>CentOS 6.5 x86_64(HVM) — 20141008–0 — minimal install with cloud helpers plus Intel SRIOV (ami-4dc28f7d)</em>)</p>
@@ -156,27 +156,27 @@
 
 
 <p><a href="https://bugs.python.org/issue23042">https://bugs.python.org/issue23042</a></p>
-<p>The post <a href="https://aresou.pages.dev//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to check Python version (both command-line and programmatically)</title>
-		<link>https://aresou.pages.dev//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
-					<comments>https://aresou.pages.dev//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
+		<link>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
+					<comments>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 05:39:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev//?p=12</guid>
+		<guid isPermaLink="false">https://aresou.pages.dev/?p=12</guid>
 
 					<description><![CDATA[<p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way [...]</p>
-<p>The post <a href="https://aresou.pages.dev//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way to do the stuff.</p>
@@ -224,10 +224,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> sys.version_info
 sys.version_info(major=2, minor=7, micro=10, releaselevel='final', serial=0)
 >>></code></pre>
-<p>The post <a href="https://aresou.pages.dev//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev//">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
+					<wfw:commentRss>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
