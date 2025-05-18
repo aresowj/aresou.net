@@ -9,8 +9,8 @@
 
 <channel>
 	<title>weijie ou&#039;s scratch pad</title>
-	<atom:link href="https://aresou.pages.dev/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aresou.pages.dev/</link>
+	<atom:link href="//feed/" rel="self" type="application/rss+xml" />
+	<link>//</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 21 Jan 2022 05:21:28 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://aresou.pages.dev/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>weijie ou&#039;s scratch pad</title>
-	<link>https://aresou.pages.dev/</link>
+	<link>//</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</title>
-		<link>https://aresou.pages.dev/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
-					<comments>https://aresou.pages.dev/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
+		<link>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
+					<comments>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 Jan 2022 05:19:06 +0000</pubDate>
@@ -40,17 +40,17 @@
 		<category><![CDATA[hosting]]></category>
 		<category><![CDATA[javascript]]></category>
 		<category><![CDATA[web]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=137</guid>
+		<guid isPermaLink="false">//?p=137</guid>
 
 					<description><![CDATA[<p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Recently I was trying to play around with some WordPress plugins, that brought my attention to the console and discovered there have been JavaScript errors for my site:</p>
 
 
 
-<pre class="wp-block-preformatted">GET https://aresou.pages.dev/wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
+<pre class="wp-block-preformatted">GET //wp-includes/js/dist/vendor/lodash.min.js?ver=4.17.19 net::ERR_ABORTED 403 (Forbidden)</pre>
 
 
 
@@ -58,7 +58,7 @@
 
 
 
-<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: https://aresou.pages.dev/wp-admin/index.php</pre>
+<pre class="wp-block-preformatted">[Thu Jan 13 01:50:48.844763 2022] [access_compat:error] [pid 18887] [client 50.47.132.16:60932] <strong>AH01797: client denied by server configuration:</strong> /var/www/html/aresou.net/public_html/wp-includes/js/dist/vendor/lodash.min.js, referer: //wp-admin/index.php</pre>
 
 
 
@@ -136,18 +136,18 @@ Satisfy All</pre>
 
 
 <p>Hope this article can save someone a bit of time. It took me almost 2 hours to figure out what was going on. Have a good day!</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
+					<wfw:commentRss>//2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>First 3 months at Discord as a Software Engineer</title>
-		<link>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/</link>
-					<comments>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/#respond</comments>
+		<link>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/</link>
+					<comments>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Wed, 12 Jan 2022 00:49:08 +0000</pubDate>
@@ -155,13 +155,13 @@ Satisfy All</pre>
 		<category><![CDATA[career]]></category>
 		<category><![CDATA[discord]]></category>
 		<category><![CDATA[software engineering]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=111</guid>
+		<guid isPermaLink="false">//?p=111</guid>
 
 					<description><![CDATA[<p>Intro Last year (2021), I decided to move on from Microsoft, where I worked in the past 4 years. Microsoft is absolutely one of the [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png" alt="" class="wp-image-116" width="285" height="78" srcset="https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png 876w, https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color-300x82.png 300w, https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color-768x210.png 768w" sizes="(max-width: 285px) 100vw, 285px" /></figure></div>
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img decoding="async" src="//wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png" alt="" class="wp-image-116" width="285" height="78" srcset="//wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png 876w, //wp-content/uploads/2022/01/Discord-LogoWordmark-Color-300x82.png 300w, //wp-content/uploads/2022/01/Discord-LogoWordmark-Color-768x210.png 768w" sizes="(max-width: 285px) 100vw, 285px" /></figure></div>
 
 
 
@@ -246,18 +246,18 @@ Satisfy All</pre>
 
 
 <p>These all make up to what Discord advocates to the world: build belongings. While Discord is striving to make here the best place for any group or community, we as the builders feel strong belonging to the company as well. I truly believe that we have the right direction and strategy as a company, and the future has more to come. Discord is playing a very important role to accommodate more and more people to provide open, smooth and reliable experience for all sorts of communication. In the past two years, pandemic brings increasing demand for the community to find a belonging place in the virtual world, and Discord is the first and best for that, ever.</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/feed/</wfw:commentRss>
+					<wfw:commentRss>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Reflection for My Last Semester at OMSCS</title>
-		<link>https://aresou.pages.dev/2021/05/21/reflection-for-my-last-semester-at-omscs/</link>
-					<comments>https://aresou.pages.dev/2021/05/21/reflection-for-my-last-semester-at-omscs/#comments</comments>
+		<link>//2021/05/21/reflection-for-my-last-semester-at-omscs/</link>
+					<comments>//2021/05/21/reflection-for-my-last-semester-at-omscs/#comments</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 May 2021 19:12:22 +0000</pubDate>
@@ -266,10 +266,10 @@ Satisfy All</pre>
 		<category><![CDATA[georgia tech]]></category>
 		<category><![CDATA[master degree]]></category>
 		<category><![CDATA[omscs]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=48</guid>
+		<guid isPermaLink="false">//?p=48</guid>
 
 					<description><![CDATA[<p>Introduction Spring 2021 was my last semester in the master program at Georgia Tech. I chose to push my limit and elected two courses: 6515 [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[<h1>Introduction</h1>
 <p>Spring 2021 was my last semester in the master program at Georgia Tech. I chose to push my limit and elected two courses:</p>
@@ -325,34 +325,34 @@ Satisfy All</pre>
 <p>There are a bunch of tests running on GradeScope to evaluate your implementation. Two types of tests to expect: The RUN tests and SEARCH tests. Search test is a relatively new concept to me. The test code is not checking if the input/output are valid, but walking through the STATEs that your program can reach and see if any invariant violation. The concept reminds me something learnt in CS6340 Software Analysis and Test, which tests for invariants of code block, loops and branches.</p>
 <p>The search test can be very difficult to pass reliably if the logic of the implementation is not or near to perfect. Any edge case, including super trivial ones, will be caught when the test walks into a state that is violating any assumption. Compare to run tests, search tests is very efficient in finding missed edge cases, along with the DSLab framework, to wrap everything in-memory (including I/O operations).</p>
 <p>Difficulty of projects increases tremendously after Project 3 (as of Spring 2021). The first two are quite straightforward and simple, if you have some exposure to software engineering. You implement a basic key-value store, extending the provided interface and base <code>Application</code> class. After that, PAXOS comes into play and you are going to scratch (to the ground) your head for over 50 hours to implement the famous consensus protocol from Lamport&#8217;s thesis <a href="https://lamport.azurewebsites.net/pubs/paxos-simple.pdf"><em>Paxos Made Simple</em></a>. Well it feels like the &#8220;How to draw an owl meme&#8221;:</p>
-<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-50 size-full" src="https://aresou.pages.dev/wp-content/uploads/2021/05/how-to-draw-an-owl.jpg" alt="" width="500" height="407" srcset="https://aresou.pages.dev/wp-content/uploads/2021/05/how-to-draw-an-owl.jpg 500w, https://aresou.pages.dev/wp-content/uploads/2021/05/how-to-draw-an-owl-300x244.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
+<p><img fetchpriority="high" decoding="async" class="alignnone wp-image-50 size-full" src="//wp-content/uploads/2021/05/how-to-draw-an-owl.jpg" alt="" width="500" height="407" srcset="//wp-content/uploads/2021/05/how-to-draw-an-owl.jpg 500w, //wp-content/uploads/2021/05/how-to-draw-an-owl-300x244.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></p>
 <p>For sure, you will learn A LOT at the end, when you finish all five projects. It&#8217;s okay if you cannot get full score in all of them, I did not in the last one. Still, learn by coding is a good approach for studying distributed system, and computer science.</p>
 <h1>Conclusion</h1>
 <p>By striving through the course, I firmly believe that my passion is with Distributed Systems and I want to continue this journey. Go deep and go wide, that&#8217;s what I will be trying to do.</p>
 <p>I strongly recommend anyone who is interested in the topics to take this class, it is well-organized, content rich, with good support from the professor and TAs. The topics are not stale, you could even leverage most of things you learnt in your job, if you work in the cloud industry.</p>
 <p>Also applied to be an TA in this course, see you in Fall 2021.</p>
-<p>The post <a href="https://aresou.pages.dev/2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2021/05/21/reflection-for-my-last-semester-at-omscs/">Reflection for My Last Semester at OMSCS</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2021/05/21/reflection-for-my-last-semester-at-omscs/feed/</wfw:commentRss>
+					<wfw:commentRss>//2021/05/21/reflection-for-my-last-semester-at-omscs/feed/</wfw:commentRss>
 			<slash:comments>4</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Summary and thinking on Bulb Switcher problem</title>
-		<link>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
-					<comments>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
+		<link>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
+					<comments>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 09:30:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[algorithm]]></category>
 		<category><![CDATA[leetcode]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=9</guid>
+		<guid isPermaLink="false">//?p=9</guid>
 
 					<description><![CDATA[<p>Bulb Switcher Problem: There are n bulbs that are initially off. You first turn on all the bulbs. Then, you turn off every second bulb. [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Bulb Switcher</h4>
@@ -440,27 +440,27 @@ Satisfy All</pre>
 
 
 <p>That’s it. Please leave any comment if you think I’m wrong or you have suggestions for my expressions (as I’m not a native English speaker, just want to make myself more clear on explaining an algorithm problem).</p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
+					<wfw:commentRss>//2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JavaScript (jQuery AngularJS) Notes</title>
-		<link>https://aresou.pages.dev/2019/10/25/javascript-jquery-angularjs-notes/</link>
-					<comments>https://aresou.pages.dev/2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
+		<link>//2019/10/25/javascript-jquery-angularjs-notes/</link>
+					<comments>//2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 05:54:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[javascript]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=11</guid>
+		<guid isPermaLink="false">//?p=11</guid>
 
 					<description><![CDATA[<p>Better way to compare two floats When you compare two floats, you’d better not directly compare them. Because in the calculation handled by computer, some [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <h4 class="wp-block-heading">Better way to compare two floats</h4>
@@ -513,18 +513,18 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 
 
 <p>If you want to find anything in all the siblings, use <code>.nextAll(selector)</code> instead.</p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
+					<wfw:commentRss>//2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Compile &#038; install 32 bit Python 2.7 on 64 bit CentOS 6.5</title>
-		<link>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
-					<comments>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
+		<link>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
+					<comments>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 06:00:00 +0000</pubDate>
@@ -532,10 +532,10 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 		<category><![CDATA[centos]]></category>
 		<category><![CDATA[devops]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=10</guid>
+		<guid isPermaLink="false">//?p=10</guid>
 
 					<description><![CDATA[<p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>You might want to compile a version of Python other than shipped one on your CentOS system. For example, running a Python script using a library that only has a 32bit build. Here are the steps on how to compile &amp; install Python 2.7.12 from source code on CentOS 6.5. All operations tested on a clean CentOS 6.5 (AWS AMI: <em>CentOS 6.5 x86_64(HVM) — 20141008–0 — minimal install with cloud helpers plus Intel SRIOV (ami-4dc28f7d)</em>)</p>
@@ -650,27 +650,27 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 
 
 <p><a href="https://bugs.python.org/issue23042">https://bugs.python.org/issue23042</a></p>
-<p>The post <a href="https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
+					<wfw:commentRss>//2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to check Python version (both command-line and programmatically)</title>
-		<link>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
-					<comments>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
+		<link>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
+					<comments>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 05:39:00 +0000</pubDate>
 				<category><![CDATA[Tech]]></category>
 		<category><![CDATA[python]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=12</guid>
+		<guid isPermaLink="false">//?p=12</guid>
 
 					<description><![CDATA[<p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
 <p>Sometimes you might want to confirm if your program will run / is running under Python 2.x or 3.x. We have a very simple way to do the stuff.</p>
@@ -718,10 +718,10 @@ Type "help", "copyright", "credits" or "license" for more information.
 >>> sys.version_info
 sys.version_info(major=2, minor=7, micro=10, releaselevel='final', serial=0)
 >>></code></pre>
-<p>The post <a href="https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
+					<wfw:commentRss>//2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

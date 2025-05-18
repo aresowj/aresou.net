@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Life Archives &#187; weijie ou&#039;s scratch pad</title>
-	<atom:link href="https://aresou.pages.dev/category/life/feed/" rel="self" type="application/rss+xml" />
-	<link>https://aresou.pages.dev/category/life/</link>
+	<atom:link href="//category/life/feed/" rel="self" type="application/rss+xml" />
+	<link>//category/life/</link>
 	<description>writing and tech sharing from a backend engineer</description>
 	<lastBuildDate>Fri, 21 Jan 2022 03:14:47 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=6.8.1</generator>
 
 <image>
-	<url>https://aresou.pages.dev/wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
+	<url>//wp-content/uploads/2022/01/cropped-Photo_2021-12-22_082907_Cropped-32x32.jpg</url>
 	<title>Life Archives &#187; weijie ou&#039;s scratch pad</title>
-	<link>https://aresou.pages.dev/category/life/</link>
+	<link>//category/life/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>First 3 months at Discord as a Software Engineer</title>
-		<link>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/</link>
-					<comments>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/#respond</comments>
+		<link>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/</link>
+					<comments>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Wed, 12 Jan 2022 00:49:08 +0000</pubDate>
@@ -38,13 +38,13 @@
 		<category><![CDATA[career]]></category>
 		<category><![CDATA[discord]]></category>
 		<category><![CDATA[software engineering]]></category>
-		<guid isPermaLink="false">https://aresou.pages.dev/?p=111</guid>
+		<guid isPermaLink="false">//?p=111</guid>
 
 					<description><![CDATA[<p>Intro Last year (2021), I decided to move on from Microsoft, where I worked in the past 4 years. Microsoft is absolutely one of the [...]</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img decoding="async" src="https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png" alt="" class="wp-image-116" width="285" height="78" srcset="https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png 876w, https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color-300x82.png 300w, https://aresou.pages.dev/wp-content/uploads/2022/01/Discord-LogoWordmark-Color-768x210.png 768w" sizes="(max-width: 285px) 100vw, 285px" /></figure></div>
+<div class="wp-block-image is-style-default"><figure class="aligncenter size-full is-resized"><img decoding="async" src="//wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png" alt="" class="wp-image-116" width="285" height="78" srcset="//wp-content/uploads/2022/01/Discord-LogoWordmark-Color.png 876w, //wp-content/uploads/2022/01/Discord-LogoWordmark-Color-300x82.png 300w, //wp-content/uploads/2022/01/Discord-LogoWordmark-Color-768x210.png 768w" sizes="(max-width: 285px) 100vw, 285px" /></figure></div>
 
 
 
@@ -129,10 +129,10 @@
 
 
 <p>These all make up to what Discord advocates to the world: build belongings. While Discord is striving to make here the best place for any group or community, we as the builders feel strong belonging to the company as well. I truly believe that we have the right direction and strategy as a company, and the future has more to come. Discord is playing a very important role to accommodate more and more people to provide open, smooth and reliable experience for all sorts of communication. In the past two years, pandemic brings increasing demand for the community to find a belonging place in the virtual world, and Discord is the first and best for that, ever.</p>
-<p>The post <a href="https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="https://aresou.pages.dev/">weijie ou&#039;s scratch pad</a>.</p>
+<p>The post <a href="//2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="//">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://aresou.pages.dev/2022/01/11/first-3-months-at-discord-as-a-software-engineer/feed/</wfw:commentRss>
+					<wfw:commentRss>//2022/01/11/first-3-months-at-discord-as-a-software-engineer/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
