@@ -30,7 +30,6 @@
 	<item>
 		<title>Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</title>
 		<link>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/</link>
-					<comments>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 21 Jan 2022 05:19:06 +0000</pubDate>
@@ -139,15 +138,12 @@ Satisfy All</pre>
 <p>The post <a href="/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/">Debugging &#8220;403 Forbidden&#8221; Error Accessing Files on Apache 2</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/01/20/debugging-403-forbidden-error-accessing-files-on-apache-2/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>First 3 months at Discord as a Software Engineer</title>
 		<link>/2022/01/11/first-3-months-at-discord-as-a-software-engineer/</link>
-					<comments>/2022/01/11/first-3-months-at-discord-as-a-software-engineer/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Wed, 12 Jan 2022 00:49:08 +0000</pubDate>
@@ -249,8 +245,6 @@ Satisfy All</pre>
 <p>The post <a href="/2022/01/11/first-3-months-at-discord-as-a-software-engineer/">First 3 months at Discord as a Software Engineer</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/01/11/first-3-months-at-discord-as-a-software-engineer/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
@@ -342,7 +336,6 @@ Satisfy All</pre>
 		<item>
 		<title>Summary and thinking on Bulb Switcher problem</title>
 		<link>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/</link>
-					<comments>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 09:30:00 +0000</pubDate>
@@ -443,15 +436,12 @@ Satisfy All</pre>
 <p>The post <a href="/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/">Summary and thinking on Bulb Switcher problem</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/25/summary-and-thinking-on-bulb-switcher-problem/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>JavaScript (jQuery AngularJS) Notes</title>
 		<link>/2019/10/25/javascript-jquery-angularjs-notes/</link>
-					<comments>/2019/10/25/javascript-jquery-angularjs-notes/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 05:54:00 +0000</pubDate>
@@ -516,15 +506,12 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 <p>The post <a href="/2019/10/25/javascript-jquery-angularjs-notes/">JavaScript (jQuery AngularJS) Notes</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/25/javascript-jquery-angularjs-notes/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Compile &#038; install 32 bit Python 2.7 on 64 bit CentOS 6.5</title>
 		<link>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/</link>
-					<comments>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Fri, 25 Oct 2019 06:00:00 +0000</pubDate>
@@ -653,15 +640,12 @@ var price = 128000000; console.log(price.toLocaleString());</code></pre>
 <p>The post <a href="/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/">Compile &amp; install 32 bit Python 2.7 on 64 bit CentOS 6.5</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2019/10/24/compile-install-32-bit-python-2-7-on-64-bit-centos-6-5/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>How to check Python version (both command-line and programmatically)</title>
 		<link>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/</link>
-					<comments>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/#respond</comments>
 		
 		<dc:creator><![CDATA[weijie ou]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2016 05:39:00 +0000</pubDate>
@@ -721,8 +705,6 @@ sys.version_info(major=2, minor=7, micro=10, releaselevel='final', serial=0)
 <p>The post <a href="/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/">How to check Python version (both command-line and programmatically)</a> appeared first on <a href="/">weijie ou&#039;s scratch pad</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2016/10/25/how-to-check-python-version-both-command-line-and-programmatically/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>
